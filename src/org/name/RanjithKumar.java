@@ -6,8 +6,9 @@ public class RanjithKumar {
 		String s = "ranjith";
 		int a = 100;
 		Long l = 9514152097l;
+		int b = 34;
 
-		System.out.println(s + a);
+		System.out.println(s + a + b);
 	}
 
 }
